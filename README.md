@@ -27,6 +27,12 @@ I’m currently preparing for a career in **data analytics**, and this project h
 - Practice real-world business metrics
 - Build confidence in Excel dashboarding
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/aryanrajput16721/-My-first-Excel-dashboard-project-for-data-analysis-practice-/blob/main/dashboard.png?raw=true)
+
+> This dashboard visualizes sales performance across cities and departments using Excel charts and tables.
+
 ## 📌 Future Plans
 
 - Add interactivity using slicers and pivot tables
